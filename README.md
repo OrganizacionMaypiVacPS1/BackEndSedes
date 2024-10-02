@@ -13,3 +13,5 @@ https://drive.google.com/drive/folders/1RFtuSodwpkCuqSzw4WLD5ug_mM9TPUmx?usp=sha
 ### Nota: El backend debe estar ejecutándose para que el Cliente o Administrador funcionen.
 
 Edicion desde Org Prueba
+
+Edicion N2 desde repositorio local
